@@ -1,1 +1,3 @@
-public class Demo{}
+public class Demo{
+	public void m1(){}
+}
